@@ -18,10 +18,12 @@ I developed this project front end with React, and the backend with Node.js.
 <h3><u><strong><i>Arcus Lab (Lending & Borrow BRC-20 and BTC)</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 Transform your BRC-20 into a dynamic asset with Arcus. Lend your Bitcoin or ORDI, or other BRC-20 tokens and earn competitive yields through our automated rate algorithms. Simple, secure, and lucrative – a smarter way to grow your Bitcoin holdings.
+<br />
 Borrow against your BTC Assets with ease. Arcus offers low-interest loans with flexible repayment, secured by BTC or BRC-20 tokens. Select your collateral, decide on the loan amount, you're always in control.
-
+<br />
 Platform pay for user's gas fee, so users won't use any their fund for gas.
-And I implemented one click loan by sign multi-signed psbt on the user's end.
+<br />
+**And I implemented one click loan by sign multi-signed psbt on the user's end.**
 
 Front End: React + Typescript + Material UI
 <br />
