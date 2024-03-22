@@ -127,3 +127,27 @@ Cutting edge Play-To-Earn NFT game on the BSC network
   - frontend repo: <a href="https://github.com/Crypto-Legions/crypto-frontend">Frontend</a>
   - smart contract repo: <a href="https://github.com/Crypto-Legions/CGA-Games-Contracts">Smart Contract</a>
 <br />
+
+
+<h3><u><strong><i>NFT Art Generator</i></strong></u> &nbsp;(EVM)</h3>
+<hr />
+No Code NFT Generator
+<br />
+Generate your NFT collection of up to 20,000 NFTs with our NFT Generator.
+<br />
+Upload assets, define rarity, download your collection with metadata, deploy the collection to the blockchain and get a custom mint page.
+<br />
+<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/3d25942e-87a7-4e62-a212-a28445d3ae75">
+<br />
+
+- Frontend Development: React | Tailwind CSS | Typescript | Web3.js
+- Backend Services: Node.js | Typescript | Web3.js
+- Database Management: MongoDB
+- DevOps: AWS | CI/CD
+<br />
+
+- Site: <a href="https://nftgenerator.io/">NFT Generator on EVM</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/FeloniousGru-Super/NFT-Art-Gen-BE">Backend</a>
+  - frontend repo: <a href="https://github.com/FeloniousGru-Super/NFT-Art-Gen-FE">Frontend</a>
+<br />
