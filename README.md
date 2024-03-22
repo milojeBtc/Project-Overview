@@ -45,16 +45,23 @@ Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
 <h3><u><strong><i>OrdVision (Multi Swap Ordinals with BTC)</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 OrdVision stands out as a sophisticated platform designed to facilitate the exchange of Bitcoin ordinals. It offers users the flexibility to swap their ordinals or to purchase using BTC. Below are some key components that make up the OrdVision ecosystem:
+<br />
 - Frontend Development: The interface is powered by Next.js, ensuring a seamless and dynamic user experience.
+<br />
 - Backend Services: The backend functionality is handled by Nest.js, providing a robust framework for server-side operations.
+<br />
 - Database Management: PostgreSQL is utilized for its reliable and scalable database solutions.
+<br />
 - DevOps: Docker streamlines the development process, allowing for efficient containerization and deployment.
 <br />
 For the critical feature of generating Swap Partially Signed Bitcoin Transactions (PSBTs), Munchswap leverages the capabilities of the bitcoinJs library alongside Unspent Transaction Outputs (UTXOs).
 <br />
 As the platform reaches its operational phase on the Bitcoin mainnet, it retains simplicity in terms of accessibility. Users have the convenience of engaging with the platform using various wallets including:
+<br />
 - Unisat
+<br />
 - XVerse
+<br />
 - Leader Wallet
 
 <img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/da4da8e1-70d0-4284-b030-bae783ac3a0e">
