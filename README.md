@@ -28,12 +28,11 @@ Platform pay for user's gas fee, so users won't use any their fund for gas.
 <strong>And I implemented one click loan by sign multi-signed psbt on the user's end.</strong>
 <br />
 <br />
+<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/165319b6-7bbd-40de-b768-5eaf3b3868e6">
 
 Front End: React + Typescript + Material UI
 <br />
 Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
-
-<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/165319b6-7bbd-40de-b768-5eaf3b3868e6">
 
 - Site: <a href="https://arcusbtc.com">Arcus Lab</a>
 - Github repos: 
@@ -46,26 +45,47 @@ Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
 <hr />
 OrdVision stands out as a sophisticated platform designed to facilitate the exchange of Bitcoin ordinals. It offers users the flexibility to swap their ordinals or to purchase using BTC. Below are some key components that make up the OrdVision ecosystem:
 <br />
+
 - Frontend Development: The interface is powered by Next.js, ensuring a seamless and dynamic user experience.
-<br />
 - Backend Services: The backend functionality is handled by Nest.js, providing a robust framework for server-side operations.
-<br />
 - Database Management: PostgreSQL is utilized for its reliable and scalable database solutions.
-<br />
 - DevOps: Docker streamlines the development process, allowing for efficient containerization and deployment.
 <br />
 For the critical feature of generating Swap Partially Signed Bitcoin Transactions (PSBTs), Munchswap leverages the capabilities of the bitcoinJs library alongside Unspent Transaction Outputs (UTXOs).
 <br />
 As the platform reaches its operational phase on the Bitcoin mainnet, it retains simplicity in terms of accessibility. Users have the convenience of engaging with the platform using various wallets including:
 <br />
-- Unisat
-<br />
-- XVerse
-<br />
-- Leader Wallet
-
 <img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/da4da8e1-70d0-4284-b030-bae783ac3a0e">
 
+- Unisat
+- XVerse
+- Leader Wallet
+<br />
+
+
 - Site: <a href="https://ordvision.io">OrdVision</a>
+
+<br />
+
+
+
+<h3><u><strong><i>BNBPot (Decentralized Casino)</i></strong></u> &nbsp;(BSC)</h3>
+<hr />
+Worlds first truly decentralized casino. BNBPot is simply a web3 application that visualize the events & activities of smart contracts on blockchains
+<br />
+No account & no deposit | Fully on-chain game code | Guaranteed instant payouts | Direct player vs. player | No censorship
+<br />
+Implemented NFT Auction at first for room-ownership of each games.
+<br />
+
+- Frontend Development: React | Tailwind CSS | Typescript | SEO | Web3.js
+- Backend Services: Node.js | Typescript | Web3.js
+- Database Management: PostgreSQL
+- DevOps: Digital Ocean | CI/CD
+<br />
+
+<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/cb018f73-5c18-40db-854c-5d4b2701d8bb">
+
+- Site: <a href="https://bnbpot.io">BNBPot</a>
 
 <br />
