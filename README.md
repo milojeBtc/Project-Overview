@@ -23,7 +23,7 @@ Borrow against your BTC Assets with ease. Arcus offers low-interest loans with f
 <br />
 Platform pay for user's gas fee, so users won't use any their fund for gas.
 <br />
-**And I implemented one click loan by sign multi-signed psbt on the user's end.**
+<strong>And I implemented one click loan by sign multi-signed psbt on the user's end.</strong>
 
 Front End: React + Typescript + Material UI
 <br />
