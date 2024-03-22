@@ -68,7 +68,6 @@ As the platform reaches its operational phase on the Bitcoin mainnet, it retains
 <br />
 
 
-
 <h3><u><strong><i>BNBPot (Decentralized Casino)</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 Worlds first truly decentralized casino. BNBPot is simply a web3 application that visualize the events & activities of smart contracts on blockchains
@@ -77,6 +76,7 @@ No account & no deposit | Fully on-chain game code | Guaranteed instant payouts 
 <br />
 Implemented NFT Auction at first for room-ownership of each games.
 <br />
+<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/cb018f73-5c18-40db-854c-5d4b2701d8bb">
 
 - Frontend Development: React | Tailwind CSS | Typescript | SEO | Web3.js
 - Backend Services: Node.js | Typescript | Web3.js
@@ -84,8 +84,46 @@ Implemented NFT Auction at first for room-ownership of each games.
 - DevOps: Digital Ocean | CI/CD
 <br />
 
-<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/cb018f73-5c18-40db-854c-5d4b2701d8bb">
-
 - Site: <a href="https://bnbpot.io">BNBPot</a>
 
+<br />
+
+
+<h3><u><strong><i>Crypto Legions (P2E NFT Game)</i></strong></u> &nbsp;(BSC)</h3>
+<hr />
+Cutting edge Play-To-Earn NFT game on the BSC network
+<br />
+<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/83da6aff-b22c-4250-aae4-7846790dcbf9">
+
+- The Features
+  - Minting
+  - Hunting
+  - Buying and Selling on NFT Marketplace
+  - Smart Claim System
+  - Reincarnation
+
+- The Challenge
+  - Faced the secret problem - Random Number Generation in the smart contract.
+  - By using Chainlink, made the perfect Random Number in the smart contract and protected the attacks from hackers.
+
+- The Problem
+  - Play-To-Earn NFT games typically fail when their economies become unsustainable. This usually happens when established players hoard ever-lasting NFTs, and start withdrawing rewards in bulk without contributing anything back. Without enough new players joining, the economy stagnates: All the rewards have been eaten up by whales, with little incentives left for everybody else. This is when game creators tend to panic and impose knee-jerk measures that catch remaining players off guard, damaging trust and making a bad situation worse.
+
+- The Solution
+  - Crypto Legions has invented a 'Play Forever Earn Forever' system, consisting of a combination of innovative updates including our Transparent Economy Status, our Smart Claim System™, our proven Omni-Balanced Oracle™ System, our Reserve Pool™, and our Reincarnation™ process. The combination of these features allows players to keep playing forever and to give birth to a new token, whenever needed and voted by the players who are taking the decision to Reincarnate based on the transparently provided data of the economy status. To fully understand the power of this system, you need to go over all the features in detail in this whitepaper.
+
+<br />
+
+- Frontend Development: React | Material UI | Tailwind CSS | Typescript | SEO | Web3.js
+- Backend Services: Node.js | Typescript | Web3.js
+- Third Party: Subgraph
+- Database Management: MongoDB
+- DevOps: AWS | CI/CD
+<br />
+
+- Site: <a href="https://cryptolegions.app/">Crypto Legions</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/Crypto-Legions/CryptoGamesAgency-Backend">Backend</a>
+  - frontend repo: <a href="https://github.com/Crypto-Legions/crypto-frontend">Frontend</a>
+  - smart contract repo: <a href="https://github.com/Crypto-Legions/CGA-Games-Contracts">Smart Contract</a>
 <br />
