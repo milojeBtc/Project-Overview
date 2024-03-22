@@ -1,5 +1,9 @@
 # <i>Projects</i>
 
+Blockchain: Bitcoin Ordinal, BRC-20, NFT, Marketplace, Staking, P2E NFT Game, Launchpad, Raffle, Casino
+<br />
+Web: Good at full stack development with DevOps and File Storage Knowledge
+
 <h3><u><strong><i>Ordinal Raffle</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 Users can participate in Ordinal Raffle by sending 1000 PSAT per ticket to “Deposit Address”.
@@ -51,7 +55,7 @@ OrdVision stands out as a sophisticated platform designed to facilitate the exch
 - Database Management: PostgreSQL is utilized for its reliable and scalable database solutions.
 - DevOps: Docker streamlines the development process, allowing for efficient containerization and deployment.
 <br />
-For the critical feature of generating Swap Partially Signed Bitcoin Transactions (PSBTs), Munchswap leverages the capabilities of the bitcoinJs library alongside Unspent Transaction Outputs (UTXOs).
+For the critical feature of generating Swap Partially Signed Bitcoin Transactions (PSBTs), OrdVision leverages the capabilities of the bitcoinJs library alongside Unspent Transaction Outputs (UTXOs).
 <br />
 As the platform reaches its operational phase on the Bitcoin mainnet, it retains simplicity in terms of accessibility. Users have the convenience of engaging with the platform using various wallets including:
 <br />
