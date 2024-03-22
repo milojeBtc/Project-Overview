@@ -11,6 +11,6 @@ I developed this project front end with React, and the backend with Node.js.
 
 - Live: <a href="https://satoshipunks.art">SatoshiPunks</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/muncheruniverse/swap-apis">MunchSwap-Backend</a>
-  - frontend repo: <a href="https://github.com/muncheruniverse/munchswap/">MunchSwap-Frontend</a>
+  - backend repo: <a href="https://github.com/FeloniousGru-Super/ordipucks-be">SatoshiPunks-Backend</a>
+  - frontend repo: <a href="https://github.com/FeloniousGru-Super/ordipunks-fe">SatoshiPunks-Frontend</a>
   
