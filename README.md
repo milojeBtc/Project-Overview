@@ -3,7 +3,7 @@
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
 
-<h2 align="center"><u><strong><i>Bitcoin Projects</i></strong></u> &nbsp;(Bitcoin)</h2>
+<h2 align="center"><u><strong><i>Bitcoin Projects</i></strong></u></h2>
 
 <h3><u><strong><i>Title: Bitcoin Defi</i></u> &nbsp;(Bitcoin)</h3>
 <hr />
@@ -12,20 +12,20 @@ ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or B
 
 - Live: <a href="https://arcusbtc.com/">ArcusLab</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/ArcusBTC/arcus-app">ArcusLab-Backend</a>
-  - frontend repo: <a href="https://github.com/ArcusBTC/ArcusLab-FE">ArcusLab-Frontend</a>
+  - backend repo: <a href="https://github.com/milojeBtc/arcus-app">ArcusLab-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/ArcusLab-FE">ArcusLab-Frontend</a>
   
-<h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u></h3>
 <hr />
 Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
 <img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/d4941f09-ee40-4e29-85cf-e8978a6a2705">
 
 - Live: <a href="https://munchswap.xyz/">MunchSwap</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/muncheruniverse/swap-apis">MunchSwap-Backend</a>
-  - frontend repo: <a href="https://github.com/muncheruniverse/munchswap/">MunchSwap-Frontend</a>
+  - backend repo: <a href="https://github.com/milojeBtc/swap-apis">MunchSwap-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/munchswap/">MunchSwap-Frontend</a>
 
-<h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>BRC20 Airdrop</i></strong></u></h3>
 <hr />
 
 This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
@@ -38,7 +38,7 @@ BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot addr
   - frontend repo: <a href="https://github.com/milojeBtc/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
 
 
-<h3><u><strong><i>UnderWorld Lending</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>UnderWorld Lending</i></strong></u></h3>
 <hr />
 
 This is a Ordinal Lending project on Bitcoin network. Users can borrow money use their Bitcoin Ordinals or swap their Ordinals to BTC.
@@ -51,41 +51,6 @@ UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC us
 - Github repos: 
   - backend repo: <a href="https://github.com/milojeBtc/BTC-NFT-Lending-BE">UnderWorldLending-Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/BTC-NFT-Lending">UnderWorldLending-Frontend</a>
-
-### Polygon
-
-<h3><u><strong><i>Yieldz Lending</i></strong></u> &nbsp;(Polygon)</h3>
-
-<hr />
-
-This is a Defi Lending project on Etheruem network. Users can provide a sustainable system and bringing predictabe and long-term yield mechanisms for Defi investors.
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/14a1e11e-1d51-42d7-af75-e03b90dece79">
-
-
-Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors. YIELDZ is also a multifaceted Ecosystem, innovative Stablecoin, and Core Farm.
-We concentrate on investors who want to invest their assets safely and who are searching for a reliable source of income. We provided a multi-layered method to increase the predictability of Defi space
-
-- Live: <a href="https://yieldzprotocol.com/">Yieldz</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/360-Defi-SmartContract">Yieldz-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/Yieldz-Defi-Frontend">Yieldz-Frontend</a>
-
-
-<h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
-<hr />
-
-This is a game project deployed on blockchain networks. Users can play games use crypto
-
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
-
-
-Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
-
-- Live: <a href="https://playzelo.xyz/">Playzelo</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/scissors/tree/master/backend">Playzelo Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/scissors/tree/master/frontend">Playzelo-Frontend</a>
-  - admin repo: <a href="https://github.com/milojeBtc/scissors/tree/master/admin">Playzelo-Admin</a>
 
 
 <h3><u><strong><i>Ordinal Raffle</i></strong></u> &nbsp;(Bitcoin)</h3>
@@ -155,7 +120,26 @@ As the platform reaches its operational phase on the Bitcoin mainnet, it retains
 
 <br />
 
-### Solana
+<h2 align="center"><u><strong><i>Bitcoin Projects</i></strong></u></h2>
+### Multi-chain (Bitcoin, Etheruem, Binance, Solana)
+
+<h3><u><strong><i>Playzelo</i></strong></u> &nbsp;</h3>
+<hr />
+
+This is a game project deployed on blockchain networks. Users can play games use crypto
+
+<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
+
+
+Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
+
+- Live: <a href="https://playzelo.xyz/">Playzelo</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/scissors/tree/master/backend">Playzelo Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/scissors/tree/master/frontend">Playzelo-Frontend</a>
+  - admin repo: <a href="https://github.com/milojeBtc/scissors/tree/master/admin">Playzelo-Admin</a>
+
+<h2 align="center"><u><strong><i>Solana</i></strong></u></h2>
 
 <h3><u><strong><i>Hydra Swap</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -206,8 +190,7 @@ Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain
   - Frontend: <a href="https://github.com/milojeBtc/Hubble-FrontEnd">Hubble Frontend</a>
   - Frontend: <a href="https://github.com/milojeBtc/Hubble-landing-page">Hubble Landing Page</a>
 
-
-### Ethereum
+<h2 align="center"><u><strong><i>Ethereum</i></strong></u></h2>
 
 <h3><u><strong><i>DigiMonkz</i></strong></u> &nbsp;(Etheruem)</h3>
 <hr />
@@ -238,7 +221,7 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
   - backend repo: <a href="https://github.com/milojeBtc/RaffleBackend">MetaSweep Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/RaffleProject">MetaSweep Front End</a>
 
-### Avalanche
+<h2 align="center"><u><strong><i>Avalanche</i></strong></u></h2>
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
@@ -261,7 +244,7 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
   - Backend: <a href="https://github.com/milojeBtc/dale-mint-backend-avax">dale-mint-backend-avax</a>
   - Frontend: <a href="https://github.com/milojeBtc/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
 
-### Binance
+<h2 align="center"><u><strong><i>Binance</i></strong></u></h2>
 
 <h3><u><strong><i>CashCow Protocol</i></strong></u> &nbsp;(Binance)</h3>
 <hr />
@@ -279,7 +262,7 @@ Cashcow is an innovative decentralized platform that combines Non-Fungible Token
   - Contract: <a href="https://github.com/milojeBtc/CashCowBackEnd-Solidity-">Cashcow Smart Contract</a>
   - Frontend: <a href="https://github.com/milojeBtc/CashCowFrontEnd">Cashcow Frontend</a>
 
-### Binance Smart Chain
+<h2 align="center"><u><strong><i>Binance Smart Chain</i></strong></u></h2>
 
 <h3><u><strong><i>BNBPot (Decentralized Casino)</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
@@ -301,7 +284,7 @@ Implemented NFT Auction at first for room-ownership of each games.
 
 <br />
 
-<h3><u><strong><i>Crypto Legions (P2E NFT Game)</i></strong></u> &nbsp;(BSC)</h3>
+<h3><u><strong><i>Crypto Legions (P2E NFT Game)</i></strong></u></h3>
 <hr />
 Cutting edge Play-To-Earn NFT game on the BSC network
 <br />
