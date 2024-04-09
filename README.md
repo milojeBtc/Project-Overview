@@ -171,6 +171,33 @@ DigiMonkz is a leading Web3 Wellness NFT collection on the Ethereum blockchain, 
   - frontend repo: <a href="https://github.com/milojeBtc/DigiMokz-Frontend">Digimonkz-Frontend</a>
   
 
+<h3><u><strong><i>Asigna Bitcoin Multisig</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+
+
+The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin update, facilitating the use of Ordinals, BRC20, and enabling users to minimize gas fees as much as possible.
+
+<img align="right" width="300px" src="https://i.ibb.co/0D21Pjx/Asigna.png">
+
+- Live: <a href="https://btc.asigna.io/">Asigna Bitcoin Multisig</a>
+- Github repos: 
+  - smart contract repo: <a href="https://github.com/milojeBtc/AsignaContract">Asigna Smart Contract</a>
+  - backend repo: <a href="https://github.com/milojeBtc/AsignaBackend">Asigna Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/AsignaFrontend">Asigna Front End</a>
+
+
 <h3><u><strong><i>MetaSeep Protocol</i></strong></u></h3>
 <hr />
 
@@ -198,8 +225,12 @@ The NFT & ETH Raffle project offers participants the opportunity to acquire tick
   - backend repo: <a href="https://github.com/milojeBtc/RaffleBackend">MetaSweep Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/RaffleProject">MetaSweep Front End</a>
 
-<h2 align="center"><u><strong><i>Binance Smart Chain</i></strong></u></h2>
 
+
+
+
+
+<h2 align="center"><u><strong><i>Binance Smart Chain</i></strong></u></h2>
 
 <h3><u><strong><i>Crypto Legions (P2E NFT Game)</i></strong></u></h3>
 <hr />
