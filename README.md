@@ -121,55 +121,6 @@ The developer behind DexOrdi aims for this repository to be a valuable resource 
 
 <br />
 
-<h3><u><strong><i>Ordinal Raffle</i></strong></u></h3>
-<hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-I developed the front end of the Ordinal Raffle project using React and the backend with Node.js. Users can enter the raffle by sending 1000 PSAT per ticket to the deposit address. Winners receive the inscription, while losers forfeit their entry fee, which is non-refundable
-
-<img align="right" width="300px" src="https://i.ibb.co/Bz3kFvw/Satoshi.png">
-
-- Site: <a href="https://satoshipunks.art">SatoshiPunks</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/ordipucks-be">SatoshiPunks-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/ordipunks-fe">SatoshiPunks-Frontend</a>
-
-<br />
-
-<h2 align="center"><u><strong><i>Ethereum</i></strong></u></h2>
-
-<h3><u><strong><i>DigiMonkz</i></strong></u></h3>
-<hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-DigiMonkz is a leading Web3 Wellness NFT collection on the Ethereum blockchain, offering users the ability to mint GEN1 or GEN2 NFTs and earn artifacts through staking. Our platform addresses mental health challenges and provides premium content and guidance to enhance mental, physical, and spiritual well-being for digital entrepreneurs and Web3 enthusiasts. The DigiMonkz Mastermind program aims to bring balance and empowerment to the lives of Web3 Degens, supporting the next generation of digital entrepreneurs.
-<img align="right" width="300px" src="https://i.ibb.co/qkBWHrJ/Digmonks.png" alt="Digmonks">
-
-- Live: <a href="https://digimonkz.com/">Digimonkz</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/milojeBtc/DigiMonkz-Staking">Digimonkz-SmartContract</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/DigiMokz-Frontend">Digimonkz-Frontend</a>
-  
 
 <h3><u><strong><i>Asigna Bitcoin Multisig</i></strong></u></h3>
 <hr />
@@ -196,6 +147,62 @@ The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin upd
   - smart contract repo: <a href="https://github.com/milojeBtc/AsignaContract">Asigna Smart Contract</a>
   - backend repo: <a href="https://github.com/milojeBtc/AsignaBackend">Asigna Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/AsignaFrontend">Asigna Front End</a>
+
+
+
+<h3><u><strong><i>Ordinal Raffle</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+I developed the front end of the Ordinal Raffle project using React and the backend with Node.js. Users can enter the raffle by sending 1000 PSAT per ticket to the deposit address. Winners receive the inscription, while losers forfeit their entry fee, which is non-refundable
+
+<img align="right" width="300px" src="https://i.ibb.co/Bz3kFvw/Satoshi.png">
+
+- Site: <a href="https://satoshipunks.art">SatoshiPunks</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/ordipucks-be">SatoshiPunks-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/ordipunks-fe">SatoshiPunks-Frontend</a>
+
+<br />
+
+
+
+
+
+
+<h2 align="center"><u><strong><i>Ethereum</i></strong></u></h2>
+
+<h3><u><strong><i>DigiMonkz</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+DigiMonkz is a leading Web3 Wellness NFT collection on the Ethereum blockchain, offering users the ability to mint GEN1 or GEN2 NFTs and earn artifacts through staking. Our platform addresses mental health challenges and provides premium content and guidance to enhance mental, physical, and spiritual well-being for digital entrepreneurs and Web3 enthusiasts. The DigiMonkz Mastermind program aims to bring balance and empowerment to the lives of Web3 Degens, supporting the next generation of digital entrepreneurs.
+<img align="right" width="300px" src="https://i.ibb.co/qkBWHrJ/Digmonks.png" alt="Digmonks">
+
+- Live: <a href="https://digimonkz.com/">Digimonkz</a>
+- Github repos: 
+  - smart contract repo: <a href="https://github.com/milojeBtc/DigiMonkz-Staking">Digimonkz-SmartContract</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/DigiMokz-Frontend">Digimonkz-Frontend</a>
 
 
 <h3><u><strong><i>MetaSeep Protocol</i></strong></u></h3>
