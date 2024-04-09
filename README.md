@@ -19,6 +19,11 @@ I have successfully developed multiple NFT/Blockchain projects encompassing vari
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ArcusLab is a cutting-edge Bitcoin decentralized finance (DeFi) platform that enables users to access Faucet BRC20 tokens, as well as supply or borrow BTC and BRC20 tokens with an over-collateral ratio. Our platform utilizes Next.js for the frontend, Node.js for the backend, and MongoDB for the database. Additionally, we leverage Deep Lake API, DLC, Oracle, and Crypto Finance API for liquidation and automated market-making (AMM) processes. The alpha version of our platform will soon be released on the testnet. Presently, users can interact with our platform using the Unisat Wallet, with plans to integrate XVerse and Leader Wallet in the future.
+<br />
+
+Front End: React + Typescript + Material UI
+<br />
+Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
 <img align="right" width="300px" src="https://i.ibb.co/B3YM82w/Arcuslab.png" alt="Arcuslab" border="0" >
 
 - Live: <a href="https://arcusbtc.com/">ArcusLab</a>
@@ -41,28 +46,13 @@ Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with t
 <hr />
 
 This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/453817f2-3920-4626-9c53-1041e67f15b5">
-
 BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
+<img align="right" width="300px" src="https://i.ibb.co/VvybHCM/Bmpbrc.png">
+
 - Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
 - Github repos: 
   - backend repo: <a href="https://github.com/milojeBtc/BRC20-withdraw-Backend">BRC20-Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
-
-
-<h3><u><strong><i>UnderWorld Lending</i></strong></u></h3>
-<hr />
-
-This is a Ordinal Lending project on Bitcoin network. Users can borrow money use their Bitcoin Ordinals or swap their Ordinals to BTC.
-
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/335f566b-a90d-4997-b2fa-bd318b484830">
-
-UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC use their BTC Ordinals or Swap Ordinals with BTC. The main purpose of this platform is to facilitate liquidity for borrowers who urgently need it or require it at a specific time. Additionally, we aim to help lenders earn money through this process. Everything is 100% secure, and it will be done through the BTC blockchain. Everything will be transparent. Borrowers won't have to send your ordinal anywhere during borrow money period. With the help of Deep Lake, DLCs (Discreet Log Contracts) and PSBT (Partially Signed Bitcoin Transactions) for Ordinals.
-
-- Live: <a href="https://degens.fi/">UnderWorldLending</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/BTC-NFT-Lending-BE">UnderWorldLending-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/BTC-NFT-Lending">UnderWorldLending-Frontend</a>
 
 
 <h3><u><strong><i>Ordinal Raffle</i></strong></u></h3>
@@ -72,76 +62,22 @@ If counter down starts and user is winner, he will get the inscription, but if h
 
 I developed this project front end with React, and the backend with Node.js.
 
-<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/231f9b82-8281-43ae-af54-e7e8f1ed5035">
+<img align="right" width="300px" src="https://i.ibb.co/Bz3kFvw/Satoshi.png">
 
 - Site: <a href="https://satoshipunks.art">SatoshiPunks</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/FeloniousGru-Super/ordipucks-be">SatoshiPunks-Backend</a>
-  - frontend repo: <a href="https://github.com/FeloniousGru-Super/ordipunks-fe">SatoshiPunks-Frontend</a>
+  - backend repo: <a href="https://github.com/milojeBtc/ordipucks-be">SatoshiPunks-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/ordipunks-fe">SatoshiPunks-Frontend</a>
 
 <br />
 
-
-<h3><u><strong><i>Arcus Lab (Lending & Borrow BRC-20 and BTC)</i></strong></u></h3>
-<hr />
-Transform your BRC-20 into a dynamic asset with Arcus. Lend your Bitcoin or ORDI, or other BRC-20 tokens and earn competitive yields through our automated rate algorithms. Simple, secure, and lucrative – a smarter way to grow your Bitcoin holdings.
-<br />
-Borrow against your BTC Assets with ease. Arcus offers low-interest loans with flexible repayment, secured by BTC or BRC-20 tokens. Select your collateral, decide on the loan amount, you're always in control.
-<br />
-Platform pay for user's gas fee, so users won't use any their fund for gas.
-<br />
-<strong>And I implemented one click loan by sign multi-signed psbt on the user's end.</strong>
-<br />
-<br />
-<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/165319b6-7bbd-40de-b768-5eaf3b3868e6">
-
-Front End: React + Typescript + Material UI
-<br />
-Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
-
-- Site: <a href="https://arcusbtc.com">Arcus Lab</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/FeloniousGru-Super/Arcus-BE">Arcus Backend</a>
-  - frontend repo: <a href="https://github.com/FeloniousGru-Super/Arcus-FE">Arcus Frontend</a>
-<br />
-
-
-<h3><u><strong><i>OrdVision (Multi Swap Ordinals with BTC)</i></strong></u></h3>
-<hr />
-OrdVision stands out as a sophisticated platform designed to facilitate the exchange of Bitcoin ordinals. It offers users the flexibility to swap their ordinals or to purchase using BTC. Below are some key components that make up the OrdVision ecosystem:
-<br />
-
-- Frontend Development: The interface is powered by Next.js, ensuring a seamless and dynamic user experience.
-- Backend Services: The backend functionality is handled by Nest.js, providing a robust framework for server-side operations.
-- Database Management: PostgreSQL is utilized for its reliable and scalable database solutions.
-- DevOps: Docker streamlines the development process, allowing for efficient containerization and deployment.
-<br />
-For the critical feature of generating Swap Partially Signed Bitcoin Transactions (PSBTs), OrdVision leverages the capabilities of the bitcoinJs library alongside Unspent Transaction Outputs (UTXOs).
-<br />
-As the platform reaches its operational phase on the Bitcoin mainnet, it retains simplicity in terms of accessibility. Users have the convenience of engaging with the platform using various wallets including:
-<br />
-<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/da4da8e1-70d0-4284-b030-bae783ac3a0e">
-
-- Unisat
-- XVerse
-- Leader Wallet
-<br />
-
-
-- Site: <a href="https://ordvision.io">OrdVision</a>
-
-<br />
-
-<h2 align="center"><u><strong><i>Bitcoin Projects</i></strong></u></h2>
-### Multi-chain (Bitcoin, Etheruem, Binance, Solana)
 
 <h3><u><strong><i>Playzelo</i></strong></u></h3>
 <hr />
 
 This is a game project deployed on blockchain networks. Users can play games use crypto
 
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
-
+<img align="right" width="300px" src="https://i.ibb.co/ZJSg468/Playzelo.png">
 
 Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
 
@@ -151,7 +87,7 @@ Playzelo is a game project deployed on blockchain networks. There are several ga
   - frontend repo: <a href="https://github.com/milojeBtc/scissors/tree/master/frontend">Playzelo-Frontend</a>
   - admin repo: <a href="https://github.com/milojeBtc/scissors/tree/master/admin">Playzelo-Admin</a>
 
-<h2 align="center"><u><strong><i>Solana</i></strong></u></h2>
+<h2 align="center"><u><strong><i>Solana Projects</i></strong></u></h2>
 
 <h3><u><strong><i>Hydra Swap</i></strong></u></h3>
 <hr />
@@ -284,7 +220,7 @@ No account & no deposit | Fully on-chain game code | Guaranteed instant payouts 
 <br />
 Implemented NFT Auction at first for room-ownership of each games.
 <br />
-<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/cb018f73-5c18-40db-854c-5d4b2701d8bb">
+<img align="right" width="300px" src="https://github.com/milojeBtc/projects/assets/92280175/cb018f73-5c18-40db-854c-5d4b2701d8bb">
 
 - Frontend Development: React | Tailwind CSS | Typescript | SEO | Web3.js
 - Backend Services: Node.js | Typescript | Web3.js
@@ -300,7 +236,7 @@ Implemented NFT Auction at first for room-ownership of each games.
 <hr />
 Cutting edge Play-To-Earn NFT game on the BSC network
 <br />
-<img align="right" width="300px" src="https://github.com/FeloniousGru-Super/projects/assets/92280175/83da6aff-b22c-4250-aae4-7846790dcbf9">
+<img align="right" width="300px" src="https://github.com/milojeBtc/projects/assets/92280175/83da6aff-b22c-4250-aae4-7846790dcbf9">
 
 - The Features
   - Minting
