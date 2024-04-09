@@ -233,6 +233,39 @@ The NFT & ETH Raffle project offers participants the opportunity to acquire tick
   - frontend repo: <a href="https://github.com/milojeBtc/RaffleProject">MetaSweep Front End</a>
 
 
+<h2 align="center"><u><strong><i>Solana</i></strong></u></h2>
+
+<h3><u><strong><i>Hubble Protocol</i></strong></u></h3>
+<hr />
+
+Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain. Hubble enables you to borrow USDH against multiple assets. Borrowing USDH allows users to access the liquidity (cash on hand) in their long-term holding tokens.
+
+<img align="right" width="300px" src="https://i.ibb.co/yYSj4Vm/Hubble.png">
+
+- Live Link: <a href="https://hubbleprotocol.io">Hubble Protocol</a>
+  - Functionality
+    - Lets users borrow USDH for a one-time 0.5% fee and low interest rates. With the interest yield on deposits, your collateral value can grow to negate fees.
+    - Developed governance and utility Token(HBB) and over-collateralized stablecoin(USDH).
+    - Hubble’s capital-efficient 110% collateral ratio lets users leverage up to 11x on their deposits.
+- Github repo:
+  - Contract: <a href="https://github.com/milojeBtc/Hubble-Backend">Hubble Smart Contract</a>
+  - Frontend: <a href="https://github.com/milojeBtc/Hubble-FrontEnd">Hubble Frontend</a>
+  - Frontend: <a href="https://github.com/milojeBtc/Hubble-landing-page">Hubble Landing Page</a>
+
+<h3><u><strong><i>Hydra Swap</i></strong></u></h3>
+<hr />
+
+This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
+
+<img align="right" width="300px" src="https://i.ibb.co/WpCn27r/Hydra-Swap.png">
+
+HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
+
+- Live: <a href="https://hydraswap.io/">HydraSwap</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/hydra-Defi-BE">Hydra-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/hydra-Defi-FE">Hydra-Frontend</a>
+  - SmartContract repo: <a href="https://github.com/milojeBtc/hydra-Defi-SC">Hydra-SmartContract</a>
 
 
 
