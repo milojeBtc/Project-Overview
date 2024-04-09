@@ -29,12 +29,13 @@ ArcusLab is a cutting-edge Bitcoin decentralized finance (DeFi) platform that en
 <h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u></h3>
 <hr />
 Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
-<img align="right" width="300px" src="https://i.ibb.co/QJDvZWy/Munch.png" alt="Munch" border="0" />
+<img align="right" width="300px" src="https://i.ibb.co/0Z4NMzP/Munch.png" alt="Munch" border="0" />
 
 - Live: <a href="https://munchswap.xyz/">MunchSwap</a>
 - Github repos: 
   - backend repo: <a href="https://github.com/milojeBtc/swap-apis">MunchSwap-Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/munchswap/">MunchSwap-Frontend</a>
+
 
 <h3><u><strong><i>BRC20 Airdrop</i></strong></u></h3>
 <hr />
