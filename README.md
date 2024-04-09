@@ -20,13 +20,17 @@ I have successfully developed multiple NFT/Blockchain projects encompassing vari
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-ArcusLab is a cutting-edge Bitcoin decentralized finance (DeFi) platform that enables users to access Faucet BRC20 tokens, as well as supply or borrow BTC and BRC20 tokens with an over-collateral ratio. Our platform utilizes Next.js for the frontend, Node.js for the backend, and MongoDB for the database. Additionally, we leverage Deep Lake API, DLC, Oracle, and Crypto Finance API for liquidation and automated market-making (AMM) processes. The alpha version of our platform will soon be released on the testnet. Presently, users can interact with our platform using the Unisat Wallet, with plans to integrate XVerse and Leader Wallet in the future.
+ArcusLab is a cutting-edge Bitcoin decentralized finance (DeFi) platform that enables users to access Faucet BRC20 tokens, as well as supply or borrow BTC and BRC20 tokens with an over-collateral ratio. Our platform utilizes Next.js for the frontend, Node.js for the backend, and MongoDB for the database. 
+
+<img align="right" width="300px" src="https://i.ibb.co/B3YM82w/Arcuslab.png" alt="Arcuslab" border="0" >
+
+Additionally, we leverage Deep Lake API, DLC, Oracle, and Crypto Finance API for liquidation and automated market-making (AMM) processes. The alpha version of our platform will soon be released on the testnet. Presently, users can interact with our platform using the Unisat Wallet, with plans to integrate XVerse and Leader Wallet in the future.
 <br />
 
 Front End: React + Typescript + Material UI
 <br />
 Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
-<img align="right" width="300px" src="https://i.ibb.co/B3YM82w/Arcuslab.png" alt="Arcuslab" border="0" >
+
 
 - Live: <a href="https://arcusbtc.com/">ArcusLab</a>
 - Github repos: 
