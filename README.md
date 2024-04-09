@@ -38,10 +38,12 @@ Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 This is the blockchain project based on multi-chain such as bitcoin, solana, etc to provide several strategies.
@@ -68,7 +70,8 @@ And also develop the website for this P2E Game with Next.js and tailwind CSS
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -92,10 +95,11 @@ Here, I am developing the backend including the blockchain as a lead developer.
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 Users can participate in Ordinal Raffle by sending 1000 PSAT per ticket to “Deposit Address”.
@@ -117,9 +121,19 @@ I developed this project front end with React, and the backend with Node.js.
 <h3><u><strong><i>DigiMonkz</i></strong></u></h3>
 <hr />
 
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 This is a NFT project on Etheruem blockchain. Users can mint GEN111 or GEN2 NFTs and can get artifact as a reward from Staking.
 
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/7bfef799-1101-47a0-b747-bcb910683e92">
+<img align="right" width="300px" src="https://i.ibb.co/qkBWHrJ/Digmonks.png" alt="Digmonks">
 
 DigiMonkz is the leading Web3 Wellness NFT collection that is building alongside other passionate and accomplished entrepreneurs as we enter a Digital Age of unprecedented mental health problems. DigiMonkz fill a HUGE NEED as it provides premium content and instruction to LEVEL UP your mind, body, and spirit. We are designed for the NEXT GENERATION of Digital Entrepreneurs and Web3 Fans. The Life of a Degen Journey, as Bebe calls the DigiMonkz Mastermind, is designed to bring more balance and power to the lives of Web3 Degens.
 
@@ -132,9 +146,21 @@ DigiMonkz is the leading Web3 Wellness NFT collection that is building alongside
 <h3><u><strong><i>MetaSeep Protocol</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/6f81e434-a42c-4cd5-9524-6b1568232ff3">
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+
 
 A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheruem network. They can get Eth or NFT for reward when they win Raffle.
+
+<img align="right" width="300px" src="https://i.ibb.co/Csbzh84/Metswap.png">
 
 - Demo: <a href="https://metasweep.io/">MetaSweep Protocol</a>
 - Live: <a href="https://metawin.com">MetaWin Protocol</a>
@@ -143,75 +169,29 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
   - backend repo: <a href="https://github.com/milojeBtc/RaffleBackend">MetaSweep Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/RaffleProject">MetaSweep Front End</a>
 
-<h2 align="center"><u><strong><i>Avalanche</i></strong></u></h2>
-
-<h3><u><strong><i>Plunder The Void Mint Site</i></strong></u></h3>
-<hr />
-
-This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/209906661-40d7a303-d0ae-4bf8-a3ca-b159927d72ab.png">
-
-- Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
-- Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
-  - Functionality
-    - 500 NFTs
-    - Mint price is 100 USDC
-    - Need to put discord Name or Id
-    - Avalanche network
-- Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
-- Mainnet deployed contract address: <a href="">Mainnet contract</a>
-- Github repo:
-  - Contract: <a href="https://github.com/milojeBtc/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/milojeBtc/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/milojeBtc/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
-
-<h2 align="center"><u><strong><i>Binance</i></strong></u></h2>
-
-<h3><u><strong><i>CashCow Protocol</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/72111c4e-8b74-4779-b778-aeafcd58f904">
-
-Cashcow is an innovative decentralized platform that combines Non-Fungible Tokens (NFT) and Fungible Tokens (FT). It is a futuristic NFT project that utilizes cutting-edge Defi tools to maximize returns. ShoeFy can amplify the NFTs potential by including both farming and staking to generate passive income.
-
-- Live: <a href="https://cashcowprotocol.com">CashCow Protocol</a>
-  - Functionality
-    - Established DeFi platform where users can earn profit from mining, reselling, trading, staking, farming, and the LP program 
-    - Closely collaborated with the product and developer teams to improve the efficiency of the platform
-    - Introduced Sub-graph third party to reduce the weight of web3 calls and improve web-app speed 46%
-- Github repo:
-  - Contract: <a href="https://github.com/milojeBtc/CashCowBackEnd-Solidity-">Cashcow Smart Contract</a>
-  - Frontend: <a href="https://github.com/milojeBtc/CashCowFrontEnd">Cashcow Frontend</a>
-
 <h2 align="center"><u><strong><i>Binance Smart Chain</i></strong></u></h2>
 
-<h3><u><strong><i>BNBPot (Decentralized Casino)</i></strong></u></h3>
-<hr />
-Worlds first truly decentralized casino. BNBPot is simply a web3 application that visualize the events & activities of smart contracts on blockchains
-<br />
-No account & no deposit | Fully on-chain game code | Guaranteed instant payouts | Direct player vs. player | No censorship
-<br />
-Implemented NFT Auction at first for room-ownership of each games.
-<br />
-<img align="right" width="300px" src="https://github.com/milojeBtc/projects/assets/92280175/cb018f73-5c18-40db-854c-5d4b2701d8bb">
-
-- Frontend Development: React | Tailwind CSS | Typescript | SEO | Web3.js
-- Backend Services: Node.js | Typescript | Web3.js
-- Database Management: PostgreSQL
-- DevOps: Digital Ocean | CI/CD
-<br />
-
-- Site: <a href="https://bnbpot.io">BNBPot</a>
-
-<br />
 
 <h3><u><strong><i>Crypto Legions (P2E NFT Game)</i></strong></u></h3>
 <hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 Cutting edge Play-To-Earn NFT game on the BSC network
 <br />
-<img align="right" width="300px" src="https://github.com/milojeBtc/projects/assets/92280175/83da6aff-b22c-4250-aae4-7846790dcbf9">
 
+
+<img align="right" width="300px" src="https://i.ibb.co/f924bpd/Cryptolegion.png">
 - The Features
   - Minting
   - Hunting
