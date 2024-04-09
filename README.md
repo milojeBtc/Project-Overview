@@ -108,9 +108,11 @@ I lead the development of the backend for Ord Toolkit, a platform focused on ord
 
 DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network. Recognizing the unique challenges associated with decentralized trading on Bitcoin, DexOrdi has positioned itself as a leader in overcoming these obstacles.
 
+<img align="right" width="300px" src="https://i.ibb.co/DLNcPyS/Dexordi.png">
+
 The developer behind DexOrdi aims for this repository to be a valuable resource for enthusiasts looking to contribute to the growth and enhancement of the Bitcoin ecosystem. Together, we can cultivate a more prosperous and valuable Bitcoin world for all stakeholders.
 
-<img align="right" width="300px" src="https://i.ibb.co/DLNcPyS/Dexordi.png">
+
 
 - Site: <a href="https://dexordi-fe.vercel.app">Dexordi</a>
 - Github repos: 
