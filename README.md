@@ -1,14 +1,25 @@
 # <i>Blockchain Projects on Bitcoin, EVM(Ethereum, Binance, Avalanche, Polygon, Aurora) and Solana.</i>
 
-As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
+I have successfully developed multiple NFT/Blockchain projects encompassing various features such as minting, staking, evolution/breeding, raffle/auction houses, Launchpad, Marketplace, and P2E games including dice, crash, jackpot, coinflip, among others. All repositories are currently set to private status.
 
+<h2 align="center"><u><strong><i>฿itcoin Projects</i></strong></u></h2>
 
-<h2 align="center"><u><strong><i>Bitcoin Projects</i></strong></u></h2>
-
-<h3><u><strong><i>Title: Bitcoin Defi</i></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>Bitcoin Defi</i></u></h3>
 <hr />
-ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Crypto Finance API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet.
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/bb277617-0124-47cf-84ad-33ba16caa2f8">
+  
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-00b0ff?style=flat-square&logo=ethereum&logoColor=white)
+![Automated Market Making](https://img.shields.io/badge/Automated%20Market%20Making-1C1C1C?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+ArcusLab is a cutting-edge Bitcoin decentralized finance (DeFi) platform that enables users to access Faucet BRC20 tokens, as well as supply or borrow BTC and BRC20 tokens with an over-collateral ratio. Our platform utilizes Next.js for the frontend, Node.js for the backend, and MongoDB for the database. Additionally, we leverage Deep Lake API, DLC, Oracle, and Crypto Finance API for liquidation and automated market-making (AMM) processes. The alpha version of our platform will soon be released on the testnet. Presently, users can interact with our platform using the Unisat Wallet, with plans to integrate XVerse and Leader Wallet in the future.
+<img align="right" width="300px" src="https://i.ibb.co/B3YM82w/Arcuslab.png" alt="Arcuslab" border="0" >
 
 - Live: <a href="https://arcusbtc.com/">ArcusLab</a>
 - Github repos: 
@@ -18,7 +29,7 @@ ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or B
 <h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u></h3>
 <hr />
 Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/d4941f09-ee40-4e29-85cf-e8978a6a2705">
+<img align="right" width="300px" src="https://i.ibb.co/QJDvZWy/Munch.png" alt="Munch" border="0" />
 
 - Live: <a href="https://munchswap.xyz/">MunchSwap</a>
 - Github repos: 
@@ -53,7 +64,7 @@ UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC us
   - frontend repo: <a href="https://github.com/milojeBtc/BTC-NFT-Lending">UnderWorldLending-Frontend</a>
 
 
-<h3><u><strong><i>Ordinal Raffle</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>Ordinal Raffle</i></strong></u></h3>
 <hr />
 Users can participate in Ordinal Raffle by sending 1000 PSAT per ticket to “Deposit Address”.
 If counter down starts and user is winner, he will get the inscription, but if he is a loser, he lost all, and can't be refunded.
@@ -70,7 +81,7 @@ I developed this project front end with React, and the backend with Node.js.
 <br />
 
 
-<h3><u><strong><i>Arcus Lab (Lending & Borrow BRC-20 and BTC)</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>Arcus Lab (Lending & Borrow BRC-20 and BTC)</i></strong></u></h3>
 <hr />
 Transform your BRC-20 into a dynamic asset with Arcus. Lend your Bitcoin or ORDI, or other BRC-20 tokens and earn competitive yields through our automated rate algorithms. Simple, secure, and lucrative – a smarter way to grow your Bitcoin holdings.
 <br />
@@ -94,7 +105,7 @@ Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
 <br />
 
 
-<h3><u><strong><i>OrdVision (Multi Swap Ordinals with BTC)</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>OrdVision (Multi Swap Ordinals with BTC)</i></strong></u></h3>
 <hr />
 OrdVision stands out as a sophisticated platform designed to facilitate the exchange of Bitcoin ordinals. It offers users the flexibility to swap their ordinals or to purchase using BTC. Below are some key components that make up the OrdVision ecosystem:
 <br />
@@ -123,7 +134,7 @@ As the platform reaches its operational phase on the Bitcoin mainnet, it retains
 <h2 align="center"><u><strong><i>Bitcoin Projects</i></strong></u></h2>
 ### Multi-chain (Bitcoin, Etheruem, Binance, Solana)
 
-<h3><u><strong><i>Playzelo</i></strong></u> &nbsp;</h3>
+<h3><u><strong><i>Playzelo</i></strong></u></h3>
 <hr />
 
 This is a game project deployed on blockchain networks. Users can play games use crypto
@@ -141,7 +152,7 @@ Playzelo is a game project deployed on blockchain networks. There are several ga
 
 <h2 align="center"><u><strong><i>Solana</i></strong></u></h2>
 
-<h3><u><strong><i>Hydra Swap</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Hydra Swap</i></strong></u></h3>
 <hr />
 
 This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
@@ -158,7 +169,7 @@ HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Ma
 
 
 
-<h3><u><strong><i>SeekSyndicate</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>SeekSyndicate</i></strong></u></h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/c8fdcde4-fcca-4f49-b026-a30a93fb635f">
@@ -173,7 +184,7 @@ Build Smart Contract use Anchor(Rust) and Frontend use Next.js. NFT Holders can 
   - frontend repo: <a href="https://github.com/milojeBtc/SOLFaucetFE">Seek Syndicate Front End</a>
 
 
-<h3><u><strong><i>Hubble Protocol</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Hubble Protocol</i></strong></u></h3>
 <hr />
 
 Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain. Hubble enables you to borrow USDH against multiple assets. Borrowing USDH allows users to access the liquidity (cash on hand) in their long-term holding tokens.
@@ -192,7 +203,7 @@ Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain
 
 <h2 align="center"><u><strong><i>Ethereum</i></strong></u></h2>
 
-<h3><u><strong><i>DigiMonkz</i></strong></u> &nbsp;(Etheruem)</h3>
+<h3><u><strong><i>DigiMonkz</i></strong></u></h3>
 <hr />
 
 This is a NFT project on Etheruem blockchain. Users can mint GEN111 or GEN2 NFTs and can get artifact as a reward from Staking.
@@ -207,7 +218,7 @@ DigiMonkz is the leading Web3 Wellness NFT collection that is building alongside
   - frontend repo: <a href="https://github.com/milojeBtc/DigiMokz-Frontend">Digimonkz-Frontend</a>
   
 
-<h3><u><strong><i>MetaSeep Protocol</i></strong></u> &nbsp;(Ethereum)</h3>
+<h3><u><strong><i>MetaSeep Protocol</i></strong></u></h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/6f81e434-a42c-4cd5-9524-6b1568232ff3">
@@ -223,7 +234,7 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
 
 <h2 align="center"><u><strong><i>Avalanche</i></strong></u></h2>
 
-<h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
+<h3><u><strong><i>Plunder The Void Mint Site</i></strong></u></h3>
 <hr />
 
 This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
@@ -246,7 +257,7 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 
 <h2 align="center"><u><strong><i>Binance</i></strong></u></h2>
 
-<h3><u><strong><i>CashCow Protocol</i></strong></u> &nbsp;(Binance)</h3>
+<h3><u><strong><i>CashCow Protocol</i></strong></u></h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/72111c4e-8b74-4779-b778-aeafcd58f904">
@@ -264,7 +275,7 @@ Cashcow is an innovative decentralized platform that combines Non-Fungible Token
 
 <h2 align="center"><u><strong><i>Binance Smart Chain</i></strong></u></h2>
 
-<h3><u><strong><i>BNBPot (Decentralized Casino)</i></strong></u> &nbsp;(BSC)</h3>
+<h3><u><strong><i>BNBPot (Decentralized Casino)</i></strong></u></h3>
 <hr />
 Worlds first truly decentralized casino. BNBPot is simply a web3 application that visualize the events & activities of smart contracts on blockchains
 <br />
