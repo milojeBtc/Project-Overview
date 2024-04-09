@@ -10,7 +10,9 @@ I have successfully developed multiple NFT/Blockchain projects encompassing vari
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi-00b0ff?style=flat-square&logo=ethereum&logoColor=white)
@@ -40,18 +42,15 @@ Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-This is the blockchain project based on multi-chain such as bitcoin, solana, etc to provide several strategies.
-The unique and inovative tokenomics is applied in this P2E Games and introduce their own koken "GKB".
-In the Game, There are many factors to let users can feel the fun by rarity, treasure boxes, etc and provide the realic 3D Model of each conquer.
+I served as the lead developer for a blockchain project featuring multi-chain integration, including Bitcoin and Solana, to offer various strategies. Our innovative tokenomics introduces the unique token 'GKB' for our play-to-earn (P2E) game. Users can experience the excitement of rarity, treasure boxes, and realistic 3D models of conquerors. 
 
-Here,I was responsible with backend by Node.js and smart contract by Rust as a lead developer.
-And also develop the website for this P2E Game with Next.js and tailwind CSS
+My responsibilities included backend development using Node.js, smart contract programming with Rust, and creating the game's website with Next.js and Tailwind CSS.
 
 <img align="right" width="300px" src="https://i.ibb.co/BwRB4gG/Galactickingdom.png">
 
@@ -70,15 +69,14 @@ And also develop the website for this P2E Game with Next.js and tailwind CSS
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Ord Toolkit is a comprehensive platform dedicated to everything related to ordinals, BRC-20, and Bitcoin. We cater to both developers and everyday users, providing a suite of utilities designed to streamline your experience with ordinals.
-
-Here, I am developing the backend including the blockchain as a lead developer.
+I lead the development of the backend for Ord Toolkit, a platform focused on ordinals, BRC-20, and Bitcoin. Our comprehensive suite of utilities serves developers and everyday users, enhancing their experience with ordinals and blockchain technology.
 
 <img align="right" width="300px" src="https://i.ibb.co/16mDRtb/Ordtoolkit.png">
 
@@ -97,15 +95,13 @@ Here, I am developing the backend including the blockchain as a lead developer.
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Users can participate in Ordinal Raffle by sending 1000 PSAT per ticket to “Deposit Address”.
-If counter down starts and user is winner, he will get the inscription, but if he is a loser, he lost all, and can't be refunded.
-
-I developed this project front end with React, and the backend with Node.js.
+I developed the front end of the Ordinal Raffle project using React and the backend with Node.js. Users can enter the raffle by sending 1000 PSAT per ticket to the deposit address. Winners receive the inscription, while losers forfeit their entry fee, which is non-refundable
 
 <img align="right" width="300px" src="https://i.ibb.co/Bz3kFvw/Satoshi.png">
 
@@ -126,16 +122,14 @@ I developed this project front end with React, and the backend with Node.js.
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-This is a NFT project on Etheruem blockchain. Users can mint GEN111 or GEN2 NFTs and can get artifact as a reward from Staking.
-
+DigiMonkz is a leading Web3 Wellness NFT collection on the Ethereum blockchain, offering users the ability to mint GEN1 or GEN2 NFTs and earn artifacts through staking. Our platform addresses mental health challenges and provides premium content and guidance to enhance mental, physical, and spiritual well-being for digital entrepreneurs and Web3 enthusiasts. The DigiMonkz Mastermind program aims to bring balance and empowerment to the lives of Web3 Degens, supporting the next generation of digital entrepreneurs.
 <img align="right" width="300px" src="https://i.ibb.co/qkBWHrJ/Digmonks.png" alt="Digmonks">
-
-DigiMonkz is the leading Web3 Wellness NFT collection that is building alongside other passionate and accomplished entrepreneurs as we enter a Digital Age of unprecedented mental health problems. DigiMonkz fill a HUGE NEED as it provides premium content and instruction to LEVEL UP your mind, body, and spirit. We are designed for the NEXT GENERATION of Digital Entrepreneurs and Web3 Fans. The Life of a Degen Journey, as Bebe calls the DigiMonkz Mastermind, is designed to bring more balance and power to the lives of Web3 Degens.
 
 - Live: <a href="https://digimonkz.com/">Digimonkz</a>
 - Github repos: 
@@ -154,11 +148,12 @@ DigiMonkz is the leading Web3 Wellness NFT collection that is building alongside
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 
 
-A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheruem network. They can get Eth or NFT for reward when they win Raffle.
+The NFT & ETH Raffle project offers participants the opportunity to acquire tickets on the Ethereum network, with enticing prospects of winning valuable rewards in the form of Ethereum cryptocurrency or exclusive NFTs.
 
 <img align="right" width="300px" src="https://i.ibb.co/Csbzh84/Metswap.png">
 
@@ -176,7 +171,7 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
 <hr />
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+![BSC](https://img.shields.io/badge/BSC-F0B90B?style=flat-square&logo=blockchain.com&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
@@ -185,13 +180,16 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![SEO](https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google-search-console&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI/CD-0170FE?style=flat-square&logo=gitlab&logoColor=white) 
 
 Cutting edge Play-To-Earn NFT game on the BSC network
 <br />
 
-
 <img align="right" width="300px" src="https://i.ibb.co/f924bpd/Cryptolegion.png">
+
 - The Features
   - Minting
   - Hunting
