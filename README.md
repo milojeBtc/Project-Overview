@@ -30,33 +30,47 @@ Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
 - Github repos: 
   - backend repo: <a href="https://github.com/milojeBtc/arcus-app">ArcusLab-Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/ArcusLab-FE">ArcusLab-Frontend</a>
+
+ 
+<h3><u><strong><i>Dexordi</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+Users can participate in Ordinal Raffle by sending 1000 PSAT per ticket to “Deposit Address”.
+If counter down starts and user is winner, he will get the inscription, but if he is a loser, he lost all, and can't be refunded.
+
+I developed this project front end with React, and the backend with Node.js.
+
+<img align="right" width="300px" src="https://i.ibb.co/Bz3kFvw/Satoshi.png">
+
+- Site: <a href="https://satoshipunks.art">SatoshiPunks</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/ordipucks-be">SatoshiPunks-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/ordipunks-fe">SatoshiPunks-Frontend</a>
+
+<br />
+
   
-<h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u></h3>
-<hr />
-Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
-<img align="right" width="300px" src="https://i.ibb.co/0Z4NMzP/Munch.png" alt="Munch" border="0" />
-
-- Live: <a href="https://munchswap.xyz/">MunchSwap</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/swap-apis">MunchSwap-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/munchswap/">MunchSwap-Frontend</a>
-
-
-<h3><u><strong><i>BRC20 Airdrop</i></strong></u></h3>
-<hr />
-
-This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
-BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
-<img align="right" width="300px" src="https://i.ibb.co/VvybHCM/Bmpbrc.png">
-
-- Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/BRC20-withdraw-Backend">BRC20-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
-
-
 <h3><u><strong><i>Ordinal Raffle</i></strong></u></h3>
 <hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 Users can participate in Ordinal Raffle by sending 1000 PSAT per ticket to “Deposit Address”.
 If counter down starts and user is winner, he will get the inscription, but if he is a loser, he lost all, and can't be refunded.
 
@@ -74,6 +88,18 @@ I developed this project front end with React, and the backend with Node.js.
 
 <h3><u><strong><i>Playzelo</i></strong></u></h3>
 <hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 This is a game project deployed on blockchain networks. Users can play games use crypto
 
@@ -94,7 +120,7 @@ Playzelo is a game project deployed on blockchain networks. There are several ga
 
 This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
 
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/78a3d3a7-da63-4cd5-a011-de5c40ffe54c">
+<img align="right" width="300px" src="https://i.ibb.co/ZJSg468/Playzelo.png">
 
 HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
 
