@@ -61,7 +61,7 @@ My responsibilities included backend development using Node.js, smart contract p
 
 <br />
 
-  
+
 <h3><u><strong><i>Ord Toolkit</i></strong></u></h3>
 <hr />
 
@@ -84,6 +84,34 @@ I lead the development of the backend for Ord Toolkit, a platform focused on ord
 - Github repos: 
   - backend repo: <a href="https://github.com/milojeBtc/ordiToolkit-be">Ord Toolkit-Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/ordiToolkit-fe">Ord Toolkit-Frontend</a>
+
+<br />
+
+
+<h3><u><strong><i>DexOrdi</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network. Recognizing the unique challenges associated with decentralized trading on Bitcoin, DexOrdi has positioned itself as a leader in overcoming these obstacles.
+
+The developer behind DexOrdi aims for this repository to be a valuable resource for enthusiasts looking to contribute to the growth and enhancement of the Bitcoin ecosystem. Together, we can cultivate a more prosperous and valuable Bitcoin world for all stakeholders.
+
+<img align="right" width="300px" src="https://i.ibb.co/DLNcPyS/Dexordi.png">
+
+- Site: <a href="https://dexordi-fe.vercel.app">Dexordi</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Frontend</a>
 
 <br />
 
