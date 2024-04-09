@@ -32,7 +32,7 @@ Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
   - frontend repo: <a href="https://github.com/milojeBtc/ArcusLab-FE">ArcusLab-Frontend</a>
 
  
-<h3><u><strong><i>Dexordi</i></strong></u></h3>
+<h3><u><strong><i>Galactic Kingdom</i></strong></u></h3>
 <hr />
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
@@ -44,21 +44,48 @@ Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Users can participate in Ordinal Raffle by sending 1000 PSAT per ticket to “Deposit Address”.
-If counter down starts and user is winner, he will get the inscription, but if he is a loser, he lost all, and can't be refunded.
+This is the blockchain project based on multi-chain such as bitcoin, solana, etc to provide several strategies.
+The unique and inovative tokenomics is applied in this P2E Games and introduce their own koken "GKB".
+In the Game, There are many factors to let users can feel the fun by rarity, treasure boxes, etc and provide the realic 3D Model of each conquer.
 
-I developed this project front end with React, and the backend with Node.js.
+Here,I was responsible with backend by Node.js and smart contract by Rust as a lead developer.
+And also develop the website for this P2E Game with Next.js and tailwind CSS
 
-<img align="right" width="300px" src="https://i.ibb.co/Bz3kFvw/Satoshi.png">
+<img align="right" width="300px" src="https://i.ibb.co/BwRB4gG/Galactickingdom.png">
 
-- Site: <a href="https://satoshipunks.art">SatoshiPunks</a>
+- Site: <a href="https://galactickingdom.io">Galactic Kingdom</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/ordipucks-be">SatoshiPunks-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/ordipunks-fe">SatoshiPunks-Frontend</a>
+  - backend repo: <a href="https://github.com/milojeBtc/Galactic-Kingdom-BE">Galactic Kingdom-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/Galactic-Kingdom-FE">Galactic Kingdom-Frontend</a>
 
 <br />
 
   
+<h3><u><strong><i>Ord Toolkit</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+Ord Toolkit is a comprehensive platform dedicated to everything related to ordinals, BRC-20, and Bitcoin. We cater to both developers and everyday users, providing a suite of utilities designed to streamline your experience with ordinals.
+
+Here, I am developing the backend including the blockchain as a lead developer.
+
+<img align="right" width="300px" src="https://i.ibb.co/16mDRtb/Ordtoolkit.png">
+
+- Site: <a href="https://ordtoolkit.app/">Ord Toolkit</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/ordiToolkit-be">Ord Toolkit-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/ordiToolkit-fe">Ord Toolkit-Frontend</a>
+
+<br />
+
 <h3><u><strong><i>Ordinal Raffle</i></strong></u></h3>
 <hr />
 
@@ -84,85 +111,6 @@ I developed this project front end with React, and the backend with Node.js.
   - frontend repo: <a href="https://github.com/milojeBtc/ordipunks-fe">SatoshiPunks-Frontend</a>
 
 <br />
-
-
-<h3><u><strong><i>Playzelo</i></strong></u></h3>
-<hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-This is a game project deployed on blockchain networks. Users can play games use crypto
-
-<img align="right" width="300px" src="https://i.ibb.co/ZJSg468/Playzelo.png">
-
-Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
-
-- Live: <a href="https://playzelo.xyz/">Playzelo</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/scissors/tree/master/backend">Playzelo Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/scissors/tree/master/frontend">Playzelo-Frontend</a>
-  - admin repo: <a href="https://github.com/milojeBtc/scissors/tree/master/admin">Playzelo-Admin</a>
-
-<h2 align="center"><u><strong><i>Solana Projects</i></strong></u></h2>
-
-<h3><u><strong><i>Hydra Swap</i></strong></u></h3>
-<hr />
-
-This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
-
-<img align="right" width="300px" src="https://i.ibb.co/ZJSg468/Playzelo.png">
-
-HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
-
-- Live: <a href="https://hydraswap.io/">HydraSwap</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/hydra-Defi-BE">Hydra-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/hydra-Defi-FE">Hydra-Frontend</a>
-  - SmartContract repo: <a href="https://github.com/milojeBtc/hydra-Defi-SC">Hydra-SmartContract</a>
-
-
-
-<h3><u><strong><i>SeekSyndicate</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/c8fdcde4-fcca-4f49-b026-a30a93fb635f">
-
-This is one kind of P2E game. Users can get reward while playing Game.
-
-Build Smart Contract use Anchor(Rust) and Frontend use Next.js. NFT Holders can faucet SPL Token(SEEK) as Reward.
-
-- Live: <a href="https://www.seekersyndicate.com/">Seek Syndicate</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/milojeBtc/SPLFaucetSmartContract">Seek Syndicate Smart Contract</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/SOLFaucetFE">Seek Syndicate Front End</a>
-
-
-<h3><u><strong><i>Hubble Protocol</i></strong></u></h3>
-<hr />
-
-Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain. Hubble enables you to borrow USDH against multiple assets. Borrowing USDH allows users to access the liquidity (cash on hand) in their long-term holding tokens.
-
-<img align="right" width="300px" src="https://github.com/milojeBtc/Blockchain-Projects-Overview/assets/89193350/801609f5-216b-4792-9db8-c1140ac38e64">
-
-- Live Link: <a href="https://hubbleprotocol.io">Hubble Protocol</a>
-  - Functionality
-    - Lets users borrow USDH for a one-time 0.5% fee and low interest rates. With the interest yield on deposits, your collateral value can grow to negate fees.
-    - Developed governance and utility Token(HBB) and over-collateralized stablecoin(USDH).
-    - Hubble’s capital-efficient 110% collateral ratio lets users leverage up to 11x on their deposits.
-- Github repo:
-  - Contract: <a href="https://github.com/milojeBtc/Hubble-Backend">Hubble Smart Contract</a>
-  - Frontend: <a href="https://github.com/milojeBtc/Hubble-FrontEnd">Hubble Frontend</a>
-  - Frontend: <a href="https://github.com/milojeBtc/Hubble-landing-page">Hubble Landing Page</a>
 
 <h2 align="center"><u><strong><i>Ethereum</i></strong></u></h2>
 
