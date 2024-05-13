@@ -4,39 +4,6 @@ I have successfully developed multiple NFT/Blockchain projects encompassing vari
 
 <h2 align="center"><u><strong><i>฿itcoin Projects</i></strong></u></h2>
 
-
-<h3><u><strong><i>Ordinals and Rune Launchpad</i></u></h3>
-<hr />
-  
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-3899F3?style=flat-square&logo=azure-cosmos-db&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-This is the Ordinals and Rune Launchpad that provide several special services such as minting ordinals, creating collection, claiming by whitelist & public etc.
-Here we build our own apis for transfer several rune tokens to multi addresses without node so save a lot of fees and time.
-
-<img align="right" width="300px" src="https://i.ibb.co/JtpkH05/Ordinals.png" alt="Arcuslab" border="0" >
-<br />
-
-Front End: React + Typescript + Tailwind CSS
-<br />
-Back End: Node.js + Typescript + Bitcoinjs-Lib + Azure CosmosDB
-
-
-- Live: <a href="https://arcusbtc.com/">Ordinal Genesis</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/OrdinalGenesis-BE">OrdinalGenesis-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/OrdinalsGenesis-FE">OrdinalGenesis-Frontend</a>
-
- 
-
 <h3><u><strong><i>Bitcoin Defi</i></u></h3>
 <hr />
   
