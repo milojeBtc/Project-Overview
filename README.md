@@ -4,40 +4,6 @@ I have successfully developed multiple NFT/Blockchain projects encompassing vari
 
 <h2 align="center"><u><strong><i>฿itcoin Projects</i></strong></u></h2>
 
-<h3><u><strong><i>Bitcoin Defi</i></u></h3>
-<hr />
-  
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi-00b0ff?style=flat-square&logo=ethereum&logoColor=white)
-![Automated Market Making](https://img.shields.io/badge/Automated%20Market%20Making-1C1C1C?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-ArcusLab is a cutting-edge Bitcoin decentralized finance (DeFi) platform that enables users to access Faucet BRC20 tokens, as well as supply or borrow BTC and BRC20 tokens with an over-collateral ratio. Our platform utilizes Next.js for the frontend, Node.js for the backend, and MongoDB for the database. 
-
-<img align="right" width="300px" src="https://i.ibb.co/B3YM82w/Arcuslab.png" alt="Arcuslab" border="0" >
-
-Additionally, we leverage Deep Lake API, DLC, Oracle, and Crypto Finance API for liquidation and automated market-making (AMM) processes. The alpha version of our platform will soon be released on the testnet. Presently, users can interact with our platform using the Unisat Wallet, with plans to integrate XVerse and Leader Wallet in the future.
-<br />
-
-Front End: React + Typescript + Material UI
-<br />
-Back End: Node.js + Typescript + Bitcoinjs-Lib + MongoDB
-
-
-- Live: <a href="https://arcusbtc.com/">ArcusLab</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/arcus-app">ArcusLab-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/ArcusLab-FE">ArcusLab-Frontend</a>
-
- 
 <h3><u><strong><i>Galactic Kingdom</i></strong></u></h3>
 <hr />
 
