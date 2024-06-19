@@ -167,37 +167,6 @@ The NFT & ETH Raffle project offers participants the opportunity to acquire tick
   - backend repo: <a href="https://github.com/milojeBtc/RaffleBackend">MetaSweep Backend</a>
   - frontend repo: <a href="https://github.com/milojeBtc/RaffleProject">MetaSweep Front End</a>
 
-
-<h2 align="center"><u><strong><i>Solana</i></strong></u></h2>
-
-<h3><u><strong><i>Hydra Swap</i></strong></u></h3>
-<hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-
-This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
-
-<img align="right" width="300px" src="https://i.ibb.co/WpCn27r/Hydra-Swap.png">
-
-HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
-
-- Live: <a href="https://hydraswap.io/">HydraSwap</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/hydra-Defi-BE">Hydra-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/hydra-Defi-FE">Hydra-Frontend</a>
-  - SmartContract repo: <a href="https://github.com/milojeBtc/hydra-Defi-SC">Hydra-SmartContract</a>
-
-
-
-
 <h2 align="center"><u><strong><i>Binance Smart Chain</i></strong></u></h2>
 
 <h3><u><strong><i>Crypto Legions (P2E NFT Game)</i></strong></u></h3>
