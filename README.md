@@ -57,37 +57,6 @@ I lead the development of the backend for Ord Toolkit, a platform focused on ord
 
 <br />
 
-
-<h3><u><strong><i>DexOrdi</i></strong></u></h3>
-<hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network. Recognizing the unique challenges associated with decentralized trading on Bitcoin, DexOrdi has positioned itself as a leader in overcoming these obstacles.
-
-<img align="right" width="300px" src="https://i.ibb.co/DLNcPyS/Dexordi.png">
-
-The developer behind DexOrdi aims for this repository to be a valuable resource for enthusiasts looking to contribute to the growth and enhancement of the Bitcoin ecosystem. Together, we can cultivate a more prosperous and valuable Bitcoin world for all stakeholders.
-
-
-
-- Site: <a href="https://dexordi-fe.vercel.app">Dexordi</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Frontend</a>
-
-<br />
-
-
 <h3><u><strong><i>Asigna Bitcoin Multisig</i></strong></u></h3>
 <hr />
 
@@ -200,33 +169,6 @@ The NFT & ETH Raffle project offers participants the opportunity to acquire tick
 
 
 <h2 align="center"><u><strong><i>Solana</i></strong></u></h2>
-
-<h3><u><strong><i>Hubble Protocol</i></strong></u></h3>
-<hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-
-Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain. Hubble enables you to borrow USDH against multiple assets. Borrowing USDH allows users to access the liquidity (cash on hand) in their long-term holding tokens.
-
-<img align="right" width="300px" src="https://i.ibb.co/yYSj4Vm/Hubble.png">
-
-- Live Link: <a href="https://hubbleprotocol.io">Hubble Protocol</a>
-  - Functionality
-    - Lets users borrow USDH for a one-time 0.5% fee and low interest rates. With the interest yield on deposits, your collateral value can grow to negate fees.
-    - Developed governance and utility Token(HBB) and over-collateralized stablecoin(USDH).
-    - Hubble’s capital-efficient 110% collateral ratio lets users leverage up to 11x on their deposits.
-- Github repo:
-  - Contract: <a href="https://github.com/milojeBtc/Hubble-Backend">Hubble Smart Contract</a>
-  - Frontend: <a href="https://github.com/milojeBtc/Hubble-FrontEnd">Hubble Frontend</a>
-  - Frontend: <a href="https://github.com/milojeBtc/Hubble-landing-page">Hubble Landing Page</a>
 
 <h3><u><strong><i>Hydra Swap</i></strong></u></h3>
 <hr />
